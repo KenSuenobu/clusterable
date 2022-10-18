@@ -4,10 +4,10 @@ Clustering library that can be retrofitted into an application for easy clusteri
 
 ## Languages supported
 
-[ ] TypeScript/Node
-[ ] C
-[ ] C++
-[ ] Rust
-[ ] Go
-[ ] Python3
+- [ ] TypeScript/Node
+- [ ] C
+- [ ] C++
+- [ ] Rust
+- [ ] Go
+- [ ] Python3
 
